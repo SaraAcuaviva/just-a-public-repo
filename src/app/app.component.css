@@ -1,0 +1,59 @@
+footer{
+    position: fixed; 
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: #3c3c3c;
+}
+
+footer div img{
+    height: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    position: fixed; 
+    top: 0;
+    right: 0;
+    left: 0;
+    background: #000;
+    color: #fff;
+    height: 60px;
+}
+
+header div{
+    height: 100%;
+    text-align: center;
+}
+
+header div img{
+    height: 40px;
+    vertical-align: middle;
+    margin: auto;
+}
+
+header div h2{
+    vertical-align: middle;
+    display: inline;
+}
+
+.helper{
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.container{
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.no-margin{
+    margin: 0;
+}
+
+.regions-component{
+    margin-top: 20px;
+}
